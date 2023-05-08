@@ -1,0 +1,3 @@
+﻿  Parameters.cpp
+D:\xd\GraSamolot\GraSamolot\Parameters.cpp(216,23): warning C4305: "-=": obcięcie z "double" do "float"
+  GraSamolot.vcxproj -> D:\xd\GraSamolot\x64\Debug\GraSamolot.exe
